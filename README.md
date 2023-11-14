@@ -1,6 +1,8 @@
 0x11. C - printf team project
 
-Group Project:                                                                      
+Group Project done by:                                                        
+- Joshua Umukoro
+- Nathnael Shimelis
                                                                                     
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
